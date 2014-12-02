@@ -1,0 +1,37 @@
+{
+  "name": "gulp-rev-remove",
+  "version": "0.0.0",
+  "description": "Remove files which have been renamed by gulp-rev",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adsk-ui/gulp-rev-remove"
+  },
+  "scripts": {
+
+  },
+  "keywords": [
+    "gulpplugin",
+    "rev",
+    "revision",
+    "version",
+    "replace",
+    "remove",
+    "asset"
+  ],
+  "author": {
+    "name": "Adam Mangum"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.4.1",
+    "del": "1.0.0"
+  },
+  "devDependencies": {
+
+  },
+  "readmeFilename": "README.md"
+}
